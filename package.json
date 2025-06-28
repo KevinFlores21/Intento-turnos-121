@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "echo 'No build needed for static HTML'",
+    "dev": "echo 'Use a static server like live-server or http-server'"
+  },
+  "vercel": {
+    "outputDirectory": "public"
+  }
+}
